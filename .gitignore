@@ -1,0 +1,21 @@
+# Python / Virtual Environment
+backend/venv/
+venv/
+*.pyc
+__pycache__/
+*.sqlite3
+db.sqlite3
+
+# Environment Secrets
+.env
+*.env.local
+
+# Node & Frontend Build
+frontend/node_modules/
+node_modules/
+frontend/dist/
+dist/
+
+# OS Junk
+.DS_Store
+Thumbs.db
